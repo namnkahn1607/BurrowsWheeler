@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="BurrowsWheeler">
+      <change beforePath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +40,22 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "namnkahn1607"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/namnkahn1607/BurrowsWheeler.git",
+    "accountId": "41f643c4-82fb-4f03-800b-ad66ef39bb5b"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
   </component>
   <component name="OptimizeOnSaveOptions">
     <option name="myRunOnSave" value="true" />
@@ -121,8 +139,17 @@
       <option name="presentableId" value="Default" />
       <updated>1773989644376</updated>
       <workItem from="1773989648318" duration="9704000" />
-      <workItem from="1774168096901" duration="10135000" />
+      <workItem from="1774168096901" duration="10781000" />
     </task>
+    <task id="LOCAL-00001" summary="BurrowsWheeler">
+      <option name="closed" value="true" />
+      <created>1774188495958</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1774188495958</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView">
@@ -163,5 +190,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="BurrowsWheeler" />
+    <option name="LAST_COMMIT_MESSAGE" value="BurrowsWheeler" />
   </component>
 </project>
